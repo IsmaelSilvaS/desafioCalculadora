@@ -1,19 +1,17 @@
-#Calculadora
+<h1>Calculadora</h1>
 
-> Concluído
+> Status: Concluído
 
-**Desafio do curso de desenvolvimento Web no módulo de Javascript.**
+<h3>Desafio do curso de desenvolvimento Web no módulo de Javascript.</h3>
 
-####Criação de uma calculadora para verificar os eventos de click e direcionar valores para campos selecionados retornando, quando solocitado, o resultado.
+<strong>Criação de uma calculadora para verificar os eventos de click e direcionar valores para campos selecionados retornando, quando solocitado, o resultado.
+</strong>
 
-##Tecnologias utilizadas
+<h2>Tecnologias utilizadas</h2>
+<p>HTML - JAVASCRIPT - BOOTSTRAP</p>
 
-**HTML - JAVASCRIPT - BOOTSTRAP**
-
-##O projeto
-
+<h2>O projeto</h2>
 <img src="./imgs/calculadora.gif">
-
 
 
 
